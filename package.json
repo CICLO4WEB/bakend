@@ -1,0 +1,21 @@
+{
+  "name": "backendlicores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
